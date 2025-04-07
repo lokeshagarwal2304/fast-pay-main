@@ -1,0 +1,45 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* App container */
+.App {
+  text-align: center;
+}
+
+/* Header (if used) */
+.App-header {
+  background-color: #007bff;
+  color: white;
+  padding: 40px 20px;
+}
+
+/* Link styling */
+.App-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  text-decoration: underline;
+}
+
+/* Custom utility classes */
+.card-shadow {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.page-wrapper {
+  padding: 2rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+  .App-header {
+    font-size: 1.2rem;
+  }
+}
