@@ -1,8 +1,3 @@
-Here’s a clean and informative `README.md` file for your **Fast-Pay** transaction app project:
-
----
-
-```markdown
 # 💸 Fast-Pay – A UPI-based Transaction App
 
 Fast-Pay is a full-stack UPI transaction application built with **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It allows users to sign up, log in, view their account balance, initiate transactions, and visualize transaction history with graphs.
@@ -145,8 +140,3 @@ MIT License
 ## 🙌 Author
 
 Built with ❤️ by [Md Nazrul Haq]
-```
-
----
-
-Let me know if you'd like to add screenshots, badges, or deploy instructions (e.g., Vercel + Render)!
